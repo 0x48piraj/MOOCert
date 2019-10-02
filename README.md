@@ -1,20 +1,9 @@
-# MOOCert
-> Certificate Generator for MOOCs
+# MOOCert (/muːkert/)
 
-## Evolving Digital Certificates Project from MIT Media Lab
+This project aims at becoming **Certificate generator** using cryptographically secure APIs for **Massive Open Online Courses**. We are currently targeting **edX** because of it's love for open-source. This project **on the long run** aims to help students show their skills acquired from **the Internet** without paying enormous amounts of money on certifications, help companies at judging a candidate carefully without much hassle.
 
- > "When certification systems are not working well, the consequences can be more than just inefficient, such as the cumbersome and expensive process of requesting a university transcript: they can be disastrous, such as when a refugee is unable to provide a certificate of completed study, and is therefore prevented from continuing her education. Digital systems could help in both of these situations." - **MIT Media Lab**
+## References
 
-**Working Example** : http://certificates-bootcamp.mit.edu/57bc6063a1c0dc00096a0f0b _(A sample cert from MIT's Global Entrepreneurship Bootcamp 2016)_
-
-_Note : Websites like https://coins.media.mit.edu/ and https://hr.learningmachine.com/* certs are moved._
-
-
-### How to evolve?
-
--
--
--
--
--
--
+- [edX Course Catalog API Manual](https://buildmedia.readthedocs.org/media/pdf/course-catalog-api-guide/latest/course-catalog-api-guide.pdf)
+- [6.3. User Info and Learner Progress Data](https://edx.readthedocs.io/projects/devdata/en/latest/internal_data_formats/sql_schema.html)
+- [Completion API Proposal](https://openedx.atlassian.net/wiki/spaces/AC/pages/162247762/Completion+API)
